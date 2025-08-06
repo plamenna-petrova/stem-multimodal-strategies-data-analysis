@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.so
+.Python
+build/
+dist/
+.env/
+venv/
+env/
+.venv/ # Your specific virtual environment folder
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb-checkpoint
+
+# Data files (adjust as needed)
+# If your CSV is large or contains sensitive data, keep it out.
+# If it's small and part of the project, you might remove this line.
+*.csv
+*.xlsx
+*.json
+*.pkl
+*.hdf5
+
+# IDE specific files (VS Code)
+.vscode/
+.DS_Store # macOS specific
