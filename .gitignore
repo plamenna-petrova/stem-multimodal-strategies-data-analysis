@@ -17,10 +17,7 @@ env/
 
 # Data files (adjust as needed)
 # If your CSV is large or contains sensitive data, keep it out.
-# If it's small and part of the project, you might remove this line.
-*.csv
-*.xlsx
-*.json
+# If it's small and part of the project, you might remove this line
 *.pkl
 *.hdf5
 
